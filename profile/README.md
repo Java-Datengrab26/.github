@@ -2,6 +2,8 @@
 
 Moin, hier erstellt im Idealfall jeder ein Repo mit seinen Java Aufgaben und Lösungen. Dadurch sind die gesichert, überall abrufbar und andere können sich von euren Ideen inspirieren lassen.
 
+Um die Repos und Lösungen der Anderen aus dem Kurs sehen zu können und selbst mitzumachen, unten über den Link der Orga beitreten. Bitte nur Leute des TINF25B6 Kurses!
+
 ---
 
 >[!NOTE]
