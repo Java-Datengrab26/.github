@@ -37,8 +37,8 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 2. **Inhaber wählen:** Wähle diese Organization (`[DEIN-ORGA-NAME]`) als Owner aus.
 3. **Sichtbarkeit:** Wähle **Private**.
 4. **README:** Initialisiere das Repo direkt mit einer README, damit man sofort sieht, worum es geht.
-5. **.gitignore** Eine .gitignore mit Java Template ist empfehlenswert
-6. **.gitignore** Bereinigung (.DS_Store): Stelle sicher, dass betriebssystem-spezifische Dateien (wie .DS_Store bei macOS) nicht hochgeladen werden. Füge diese explizit zur .gitignore hinzu, falls sie nicht bereits enthalten sind.
+5. **.gitignore:** Eine .gitignore mit Java Template ist empfehlenswert
+6. **.gitignore:** Bereinigung (.DS_Store): Stelle sicher, dass betriebssystem-spezifische Dateien (wie .DS_Store bei macOS) nicht hochgeladen werden. Füge diese explizit zur .gitignore hinzu, falls sie nicht bereits enthalten sind.
 
 ---
 
