@@ -1,2 +1,46 @@
-Can you see this? Ja kann ich sehen
+# ☕ Java Kurs 2024 - Solution Hub
 
+Willkommen in unserer gemeinsamen GitHub Organization! Dieser Ort dient dazu, unsere Lösungsansätze zu teilen, voneinander zu lernen und bei Blockaden Inspiration zu finden.
+
+---
+
+## 📜 Verhaltensregeln (Rules)
+
+1. **Inspiration, kein Copy-Paste:** Nutzt den Code anderer, um Logik zu verstehen. Vermeidet es, Lösungen 1:1 zu kopieren (Plagiatsgefahr an der Uni!).
+2. **Respekt:** Gebt konstruktives Feedback in den Issues oder Pull Requests, wenn ihr Verbesserungsvorschläge habt.
+3. **Keine sensiblen Daten:** Achtet darauf, keine Passwörter oder persönlichen Daten in euren Repos zu speichern.
+
+---
+
+## 📂 Repository Namenskonvention
+
+Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Repositories bitte nach folgendem Schema:
+
+`[Vorname][Nachname]`
+
+* **Beispiel:** `MaxMustermann`
+
+> [!IMPORTANT]
+> Erstellt eure Repositories gerne als **Private**, die können trotzdem von jedem in der Organization gelesen werden
+
+---
+
+## 🚀 Erste Schritte
+
+1. **Repo erstellen:** Klicke auf das `+` oben rechts -> *New repository*.
+2. **Inhaber wählen:** Wähle diese Organization (`[DEIN-ORGA-NAME]`) als Owner aus.
+3. **Sichtbarkeit:** Wähle **Private**.
+4. **README:** Initialisiere das Repo direkt mit einer README, damit man sofort sieht, worum es geht.
+5. Eine .gitignore mit Java Template ist empfehlenswert
+
+---
+
+## 🔍 Tipps für Java-Projekte
+
+* **`.gitignore` nutzen:** Fügt beim Erstellen des Repos die Standard **Java** `.gitignore` hinzu. Das verhindert, dass unnötige Dateien (wie `.class` oder IDE-Einstellungen von IntelliJ) hochgeladen werden.
+* **Struktur:** Nutzt die Standard-Ordnerstruktur (z.B. `src/` für euren Quellcode), damit andere euren Code leicht in ihre IDE importieren können.
+* **Kommentare:** Kurze Kommentare im Code helfen anderen (und eurem zukünftigen Ich) zu verstehen, warum ihr ein Problem so gelöst habt.
+
+---
+
+*Bei Fragen wendet euch einfach an Joscha oder Tom.*
