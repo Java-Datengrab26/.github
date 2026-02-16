@@ -1,14 +1,11 @@
 # ☕ Java Kurs 2026 - Solution Hub
 
-Willkommen in unserer gemeinsamen GitHub Organization! Dieser Ort dient dazu, unsere Lösungsansätze zu teilen, voneinander zu lernen und bei Blockaden Inspiration zu finden.
+Moin, hier erstellt im Idealfall jeder ein Repo mit seinen Java Aufgaben und Lösungen. Dadurch sind die gesichert, überall abrufbar und andere können sich von euren Ideen inspirieren lassen.
 
 ---
 
-## 📜 Verhaltensregeln (Rules)
-
-1. **Inspiration, kein Copy-Paste:** Nutzt den Code anderer, um Logik zu verstehen.
-2. **Respekt:** Gebt konstruktives Feedback in den Issues oder Pull Requests, wenn ihr Verbesserungsvorschläge habt.
-3. **Keine sensiblen Daten:** Achtet darauf, keine Passwörter oder persönlichen Daten in euren Repos zu speichern.
+>[!NOTE]
+>[Link zu den Aufgaben](https://www.iai.kit.edu/javavl/DhbwTasks.class)
 
 ---
 
@@ -45,10 +42,9 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 ## 🚀 Erste Schritte
 
 1. **Repo erstellen:** Klicke auf das `+` oben rechts -> *New repository*.
-2. **Inhaber wählen:** Wähle diese Organization (`[DEIN-ORGA-NAME]`) als Owner aus.
+2. **Inhaber wählen:** Wähle diese Organization (`[Java-Datengrab]`) als Owner aus.
 3. **Sichtbarkeit:** Wähle **Private**.
-4. **README:** Initialisiere das Repo direkt mit einer README, damit man sofort sieht, worum es geht.
-5. **.gitignore:** Eine .gitignore mit Java Template ist empfehlenswert
+4. **.gitignore:** Eine .gitignore mit Java Template ist empfehlenswert
 6. **.gitignore:** Stelle sicher, dass betriebssystem-spezifische Dateien (wie .DS_Store bei macOS) nicht hochgeladen werden. Füge diese explizit zur .gitignore hinzu, falls sie nicht bereits enthalten sind.
 
 ---
@@ -57,7 +53,14 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 
 * **`.gitignore` nutzen:** Fügt beim Erstellen des Repos die Standard **Java** `.gitignore` hinzu. Das verhindert, dass unnötige Dateien (wie `.class` oder IDE-Einstellungen von IntelliJ) hochgeladen werden.
 * **Struktur:** Nutzt die Standard-Ordnerstruktur (z.B. `src/` für euren Quellcode), damit andere euren Code leicht in ihre IDE importieren können.
-* **Kommentare:** Kurze Kommentare im Code helfen anderen (und eurem zukünftigen Ich) zu verstehen, warum ihr ein Problem so gelöst habt.
+
+---
+
+## 📜 Verhaltensregeln (Rules)
+
+1. **Inspiration:** Nutzt den Code anderer, um Logik zu verstehen.
+2. **Keine sensiblen Daten:** Achtet darauf, keine Passwörter oder persönlichen Daten in euren Repos zu speichern.
+3. **Keine fremden Leute einladen!**
 
 ---
 
