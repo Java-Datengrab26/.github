@@ -1,4 +1,4 @@
-# ☕ Java Kurs 2024 - Solution Hub
+# ☕ Java Kurs 2026 - Solution Hub
 
 Willkommen in unserer gemeinsamen GitHub Organization! Dieser Ort dient dazu, unsere Lösungsansätze zu teilen, voneinander zu lernen und bei Blockaden Inspiration zu finden.
 
@@ -20,8 +20,14 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 
 * **Beispiel:** `MaxMustermann`
 
+> [!NOTE]
+> Nutzt für die Repos bitte wirklich euren echten Namen, mindestens den Vornamen. Die Organization ist private, also von außen ist nichts davon einsehbar.
+
 > [!IMPORTANT]
 > Erstellt eure Repositories gerne als **Private**, die können trotzdem von jedem in der Organization gelesen werden
+
+> [!TIP]
+> Ihr könnt euch über die Uni auch GitHub Pro mit Zugriff auf Copilot holen. Darüber unter [Profile>Settings>Billing and Licensing>Educational](https://github.com/settings/education/benefits) benefits einfach die Anleitung befolgen.
 
 ---
 
@@ -43,4 +49,4 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 
 ---
 
-*Bei Fragen wendet euch einfach an Joscha oder Tom.*
+*Bei Fragen wendet euch einfach an @HaiTzung (Joscha) oder @Eisfutter (Tom).*
