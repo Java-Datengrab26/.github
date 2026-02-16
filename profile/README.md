@@ -66,4 +66,4 @@ Damit wir bei 30+ Personen nicht den Überblick verlieren, benennt eure Reposito
 
 ---
 
-*Bei Fragen wendet euch einfach an @HaiTzung (Joscha) oder @Eisfutter (Tom).*
+*Bei Fragen wendet euch einfach an @HaiTzung (Joscha) oder @Eisfutterer (Tom).*
